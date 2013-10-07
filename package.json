@@ -1,0 +1,16 @@
+{
+	"name": "ttheme",
+	"version": "0.0.1",
+	"dependencies": {
+		"plist":         "0.4.3",
+		"optimist":      "0.6.0"
+	},
+	"preferGlobal": "true",
+	"bin": {
+		"ttheme" : "lib/ttheme.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jbrooksuk/TThme.git"
+	}
+}
