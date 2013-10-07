@@ -2,8 +2,9 @@
 	"name": "ttheme",
 	"version": "0.0.1",
 	"dependencies": {
-		"plist":         "0.4.3",
-		"optimist":      "0.6.0"
+		"plist":    "0.4.3",
+		"optimist": "0.6.0",
+		"js-yaml":  "*"
 	},
 	"preferGlobal": "true",
 	"bin": {
